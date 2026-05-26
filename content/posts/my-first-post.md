@@ -8,3 +8,5 @@ draft = false
 My name is **Matthew Diego Garcia Forster**, and this is my *website*!
 
 Visit the [Hugo](https://gohugo.io) website!
+
+[Go to home](/)

@@ -2,3 +2,4 @@ baseURL = 'https://mforster.uk/'
 locale = 'en-gb'
 title = 'Matthew Forster'
 theme = 'ananke'
+disableKinds = ['taxonomy', 'term']
