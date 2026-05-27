@@ -3,3 +3,7 @@ locale = 'en-gb'
 title = 'Matthew Forster'
 theme = 'ananke'
 disableKinds = ['taxonomy', 'term']
+[params]
+  subtitle = 'Trying to code...'
+  [params.contact]
+    email = 'matthew.forster1@gmail.com'
